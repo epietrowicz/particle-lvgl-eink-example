@@ -1,0 +1,23 @@
+{
+    "extensions.ignoreRecommendations": true,
+    "C_Cpp.default.configurationProvider": "particle.particle-vscode-core",
+    "files.associations": {
+        "*.ino": "cpp",
+        "ios": "cpp",
+        "__hash_table": "cpp",
+        "__split_buffer": "cpp",
+        "__tree": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "map": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "cstddef": "cpp"
+    },
+    "particle.targetPlatform": "boron",
+    "particle.firmwareVersion": "6.2.0",
+    "editor.formatOnSave": true,
+    "cmake.sourceDirectory": "/Users/eric/Documents/particle-firmware-projects/lvgl-eink-example/lib/lvgl"
+}
